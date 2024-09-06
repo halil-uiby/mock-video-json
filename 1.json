@@ -6,8 +6,8 @@
     {
       "id": 1,
       "title": "Sample Video 1",
-      "url": "https://cdn.pixabay.com/video/2023/10/22/186115-877653483_large.mp4",
-      "thumbnail": "https://assets.mixkit.co/videos/1261/1261-720.mp4",
+      "url": "https://assets.mixkit.co/videos/1261/1261-720.mp4",
+      "thumbnail": "https://www.w3schools.com/html/img_girl.jpg",
       "description": "This is a description for Sample Video 1"
     },
     {
